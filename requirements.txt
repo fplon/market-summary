@@ -1,4 +1,7 @@
 yfinance
+pandas-datareader
 pandas
 matplotlib
 seaborn
+flask
+plotly
